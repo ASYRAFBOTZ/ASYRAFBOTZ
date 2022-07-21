@@ -5,10 +5,10 @@
 - 📫 Saya Menjalankan Bot Whatsapp Tentu Tidak Mudah
 - 🔰 Jika Kamu Ingin Belajar Membuat Bot Whatsapp Kamu Bisa Memakai Script Dari Saya/Kamu/Dari Youtube
 
--All Sosmed MikAzu
-`YOUTUBE` (https://bit.ly/3c0WJz9)
-`INSTAGRAM` (https://instagram.com/asyrafsixyouu)
-`WHATSAPP` (https://wa.me/6281946945315?)
+## All Sosmed MikAzu
+- `YOUTUBE` (https://bit.ly/3c0WJz9)
+- `INSTAGRAM` (https://instagram.com/asyrafsixyouu)
+- `WHATSAPP` (https://wa.me/6281946945315?)
 
 <!---
 ASYRAFBOTZ/ASYRAFBOTZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
